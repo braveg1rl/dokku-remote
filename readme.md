@@ -1,5 +1,7 @@
 # dokku-remote [![Build Status](https://travis-ci.org/meryn/dokku-remote.png?branch=master)](https://travis-ci.org/meryn/dokku-remote) [![Dependency Status](https://david-dm.org/meryn/dokku-remote.png)](https://david-dm.org/meryn/dokku-remote)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/dokku-remote.svg)](https://greenkeeper.io/)
+
 A remote control for the dokku program on your server.
 
 ## Usage
