@@ -14,9 +14,9 @@
   "private": false,
   "dependencies": {},
   "devDependencies": {
-    "coffee-script": "~1.6.2",
-    "mocha": "1.x.x",
-    "source-map-support": "0.2.x"
+    "coffee-script": "~1.12.4",
+    "mocha": "^3.2.0",
+    "source-map-support": "~0.4.11"
   },
   "optionalDependencies": {},
   "engines": {
